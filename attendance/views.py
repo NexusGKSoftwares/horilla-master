@@ -8,7 +8,7 @@ Each view function corresponds to a specific URL route and performs the necessar
 actions to handle the request, process data, and generate a response.
 
 This module is part of the recruitment project and is intended to
-provide the main entry points for interacting with the application's functionality.
+provide the main entry points f or interacting with the application's functionality.
 """
 
 import contextlib

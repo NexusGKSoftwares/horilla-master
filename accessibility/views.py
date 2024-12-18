@@ -14,7 +14,7 @@ from accessibility.filters import AccessibilityFilter
 from accessibility.models import DefaultAccessibility
 from horilla.decorators import login_required, permission_required
 
-
+ 
 @login_required
 @permission_required("auth.change_permission")
 def user_accessibility(request):

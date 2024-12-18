@@ -9,7 +9,7 @@ from asset.forms import AssetCategoryForm, AssetForm
 from asset.models import Asset, AssetCategory
 from base.views import object_duplicate
 
-from . import views
+from . import views 
 
 urlpatterns = [
     path(

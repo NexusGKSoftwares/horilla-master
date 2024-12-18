@@ -9,7 +9,7 @@ from django.urls import path
 
 import attendance.views.clock_in_out
 import attendance.views.dashboard
-import attendance.views.penalty
+import attendance.views.penalty 
 import attendance.views.requests
 import attendance.views.search
 import base
